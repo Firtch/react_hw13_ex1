@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import React from "react";
 import "./App.css";
 import rootReducer from "./store/reducers";
 import { Provider } from "react-redux";
